@@ -1,0 +1,20 @@
+{
+  "devDependencies": {
+    "chromedriver": "^2.27.2",
+    "cucumber": "latest",
+    "selenium-webdriver": "^3.0.1",
+    "standard": "^8.6.0"
+  },
+  "name": "cucumber-js-sample",
+  "description": "a sample cucumber-js app",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/capaj/cucumber-js-sample.git"
+  },
+  "author": "capajj@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/capaj/cucumber-js-sample/issues"
+  },
+  "homepage": "https://github.com/capaj/cucumber-js-sample#readme"
+}
